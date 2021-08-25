@@ -10,5 +10,5 @@
 
 我总忘
 
-windows可以再系统里设置自动运行 https://www.jianshu.com/p/43676346b0be
+windows可以在系统里设置自动运行 https://www.jianshu.com/p/43676346b0be
 
