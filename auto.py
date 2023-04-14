@@ -13,7 +13,8 @@ f = open("data.txt", encoding="utf-8")
 
 S_NUMBER = f.readline()
 NAME = f.readline()
-CLASS = '院進学B2'
+CLASS = 'YOUR CLASS'
+THE_URL = 'THE URL'
 
 def driverVer():
 
@@ -54,7 +55,7 @@ def dTime():
 
 def log():
 
-	url = 'https://customform.jp/form/input/46755'
+	url = THE_URL
 
 	if driverVer():
 
